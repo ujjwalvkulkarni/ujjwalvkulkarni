@@ -1,8 +1,8 @@
 
-
+<img  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="3000px">
 <h1 align="center">Hey, I am Ujjwal Kulkarni!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
-I'm a Computer Science graduate student at New York University.
+I'm a Computer Science Graduate student at New York University. Learning and growing one day at a time!
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=ujjwalvkulkarni)
