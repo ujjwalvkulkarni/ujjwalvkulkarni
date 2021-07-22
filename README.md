@@ -16,14 +16,13 @@ I'm a Computer Science Graduate student at New York University. Learning and gro
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">   
   
-  
-	
+<br />
+<br />
 
-<br />
-<br />
+![Ujjwal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvkulkarni&hide=html,tex&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1117&langs_count=5)
 
 [![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwalvkulkarni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-![Ujjwal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvkulkarni&hide=html,tex&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1117&langs_count=3)
+
 
 ## Find me on
 <p><a href="https://github.com/ujjwalvkulkarni" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ujjwalkulkarni_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ukulkarni1998" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:uk2011@nyu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
